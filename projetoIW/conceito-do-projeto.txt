@@ -1,0 +1,147 @@
+/* Instruções
+
+Projeto 3º Bimestre Interfaces Web 1: Site com HTML5 e CSS Flexbox
+
+Objetivo do Projeto
+
+Criar um site estático utilizando HTML5 e CSS Flexbox que ajude a resolver ou minimizar um problema real da comunidade, da escola, do bairro ou de um grupo específico de pessoas.
+
+> O projeto deverá ser desenvolvido individualmente e publicado no GitHub Pages.
+
+ 📌 Contexto
+
+Muitas pessoas enfrentam dificuldades no dia a dia que poderiam ser amenizadas com informações organizadas e de fácil acesso.
+Seu desafio é identificar um problema real e criar um site que funcione como uma solução digital simples.
+O foco do site está na:
+ Estrutura do site;
+ Organização das informações;
+ Qualidade visual;
+ Experiência do usuário;
+ Utilização de HTML5 e CSS.
+
+ 📋 Etapas do Projeto
+
+ 1. Escolha do Problema
+
+ 2. Planejamento
+
+Antes de iniciar o desenvolvimento, crie um documento contendo as seguintes informações:
+
+Descreva claramente o problema identificado:
+
+ Qual é o problema?
+ Onde ele acontece?
+ Por que ele é importante?
+ Público-alvo: identifique:
+
+ Quem será beneficiado pelo site?
+ Para quem as informações serão apresentadas?
+ Solução proposta
+Explique:
+
+ Como o site ajudará a resolver ou minimizar o problema?
+ Quais informações serão disponibilizadas?
+ Como essas informações poderão ajudar o público-alvo?
+ 
+3. Desenvolvimento
+O site deverá possuir, no mínimo, as seguintes seções:
+
+Página Inicial
+Deverá apresentar:
+ Título do projeto;
+ Descrição resumida do problema;
+ Objetivo do site.
+
+Seção sobre o Problema
+
+ Explicação detalhada do problema;
+ Dados ou informações relevantes;
+ Contextualização para o público-alvo.
+
+Seção de Soluções ou Orientações
+
+Apresente informações que possam ajudar o usuário, como:
+
+ Dicas;
+ Passos;
+ Recomendações;
+ Orientações práticas.
+
+ 🔗 Seção de Recursos Úteis
+
+Inclua, quando aplicável:
+
+ Links externos;
+ Contatos;
+ Instituições relacionadas;
+ Serviços úteis;
+ Outras fontes de informação.
+
+ Rodapé: O rodapé deverá apresentar:
+
+ Nome do(a) aluno(a);
+ Data;
+ Link do repositório GitHub.
+
+Requisitos Técnicos
+
+ HTML5, utilizar:
+
+ Estrutura semântica;
+ Cabeçalhos (`h1`, `h2`, `h3`);
+ Parágrafos;
+ Listas;
+ Links;
+ Imagens;
+ Elementos HTML adequados para cada tipo de conteúdo.
+
+CSS, o projeto deverá utilizar:
+
+ Flexbox obrigatoriamente;
+ Cores e tipografia consistentes;
+ Layout responsivo;
+ Efeitos simples de `hover`;
+ Espaçamento organizado;
+ Organização visual adequada.
+
+> A utilização de Flexbox deverá estar presente de forma efetiva na organização do layout.
+
+Versionamento com Git, requisitos mínimos:
+
+ Repositório criado no GitHub;
+ Pelo menos 5 commits significativos;
+ Commits com mensagens descritivas;
+ Histórico de desenvolvimento organizado.
+
+> Evite utilizar mensagens genéricas como `teste`, `alteração`, `coisa nova` ou `final`.
+
+Deploy — GitHub Pages
+
+O projeto deverá ser publicado utilizando o GitHub Pages.
+
+O link do site deverá:
+
+ Estar funcionando;
+ Ser acessível publicamente;
+ Estar disponível no dia da apresentação.
+
+Entrega
+
+ 1. Repositório GitHub: Enviar o repositório contendo todos os arquivos do projeto.
+
+ 2. GitHub Pages: Enviar o link do site publicado.
+
+ 3. Documento de planejamento, que deverá conter:
+ Problema escolhido;  Público-alvo;  Solução proposta.
+
+ Formatação:
+ Capa:  Nome do Desenvolvedor,  Nome do Projeto, Nome da profª Orientadora (profª  M.Sc. Debora Batista Paulo)
+ Fonte: Arial, Tamanho: 14 para titulo / 12 corpo do texto / 13 subtítulo, se houver
+ Alinhamento justificado,  Espaçamento entre as linhas 1,5, Número de Páginas alinhado à direita no rodapé (parte inferior da página)
+ 4. Apresentação
+Apresentação de até 5 minutos, demonstrando:
+ O problema escolhido;
+ O público-alvo;
+ A solução desenvolvida;
+ O funcionamento do site;
+ O resultado final publicado no GitHub Pages.*/
